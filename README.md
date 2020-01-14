@@ -3,14 +3,4 @@ Test repo to play with, fork, branch, whatever... Train here to not #!@ things u
 ...
 
 
-first change --4:56pm
-
-second change --4:57pm
-
-Third change - hello its Diana 
-
-<<<<<<< HEAD
-inserting a glitch...
-=======
-hello...... DIANA CARDENAS SANCHEZ
->>>>>>> otro mas...
+FIX README
